@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"title": "Tomar café da manhã",
+		"description": "É importante por vários motivos. Ele inicia seu metabolismo e impede que você coma demais mais tarde. Além disso, estudos mostram que adultos que tomam um café da manhã saudável se saem melhor no trabalho, e crianças que comem uma refeição matinal obtêm pontuações mais altas nos testes. Se um prato grande não for para você, mantenha-o leve com uma barra de granola ou uma peça de fruta. Apenas não pule."
+	},
+	{
+		"id": 2,
+		"title": "Planeje suas refeições",
+		"description": "Isso ajudará você a economizar tempo e dinheiro a longo prazo. Bloqueie algum tempo, depois sente-se e considere seus objetivos e necessidades. Você quer perder peso? Cortar açúcar, gordura ou carboidratos? Adicionar proteína ou vitaminas? A preparação da refeição mantém você no controle. Você sabe o que está comendo e quando. Um bônus: será muito mais fácil pular aqueles donuts na sala de descanso do trabalho."
+	},
+	{
+		"id": 3,
+		"title": "Beba Muita Água",
+		"description": "Ele pode fazer tantas coisas boas para você. Manter-se hidratado está no topo da lista, mas também pode ajudar a perder peso. Outra razão para ir para H2O? Bebidas açucaradas estão ligadas à obesidade e diabetes tipo 2. Se você não gosta de água pura, adicione sabor com fatias de laranja, limão, lima, melancia ou pepino."
+	},
+	{
+		"id": 4,
+		"title": "Desconecte",
+		"description": "Verificando seu e-mail e mídia social muito? Claro, as atualizações mais recentes de seus amigos e familiares estão a apenas um clique de distância, mas você realmente precisa ver as fotos da última refeição de seu primo? Deixe esperar até de manhã. Defina um horário para fazer logoff e desligue o telefone. Quando você reduz o tempo de tela, fica livre para fazer outras coisas. Dê um passeio, leia um livro ou ajude seu primo a cortar legumes para o próximo grande jantar."
+	},
+	{
+		"id": 5,
+		"title": "Aprenda algo novo",
+		"description": "Novas habilidades ajudam a manter seu cérebro saudável. Inscreva-se em uma aula de dança ou em uma oficina de escrita criativa. Melhor ainda, domine um novo idioma. O trabalho mental necessário pode retardar os sinais de envelhecimento e até retardar os efeitos da doença de Alzheimer."
+	},
+	{
+		"id": 6,
+		"title": "Não fume",
+		"description": "Se acender, desista. É um grande passo em direção a uma saúde melhor. Seu corpo se repara rapidamente. Assim que 20 minutos após o seu último cigarro, sua frequência cardíaca e pressão arterial caem. Porque esperar? Chute o hábito, hoje. Seu médico ficará feliz em ajudá-lo a começar."
+	},
+	{
+		"id": 7,
+		"title": "Durma bem",
+		"description": "Há quase muitos benefícios para listar. Uma boa noite de sono melhora o humor, aguça a memória e o foco e ajuda você a aprender coisas novas. A longo prazo, reduz o risco de doenças cardíacas e ajuda a manter a forma. Procure dormir de 7 a 9 horas por noite. Para o melhor descanso, faça-o dentro do cronograma - deitando-se e acordando aproximadamente nos mesmos horários todos os dias."
+	},
+	{
+		"id": 8,
+		"title": "Treine seus músculos",
+		"description": "O treinamento de força ajuda seu corpo a trocar gordura por massa muscular. Isso significa que você queimará mais calorias, mesmo quando for um viciado em televisão. Mas esses exercícios também podem ajudá-lo a emagrecer, fortalecer seu coração e fortalecer seus ossos. Faça exercícios de treinamento de força - como flexões, estocadas e levantamento de peso - pelo menos duas vezes por semana."
+	},
+	{
+		"id": 9,
+		"title": "Cabeça ao ar livre",
+		"description": "Alguns minutos ao sol aumentam os níveis de vitamina D, e isso é bom para os ossos, o coração e o humor. Além disso, estar do lado de fora significa que é mais provável que você mova seu corpo em vez de estacioná-lo na frente da TV ou do computador. Escolha a natureza em vez das ruas da cidade, se puder. Um estudo descobriu que as pessoas que caminhavam em espaços verdes urbanos eram mais calmas do que as pessoas que caminhavam em áreas construídas."
+	},
+	{
+		"id": 10,
+		"title": "Mantenha seu equilíbrio",
+		"description": "Se você é jovem e ativo, um bom equilíbrio o ajudará a evitar lesões. Se você for mais velho, isso o manterá ativo por mais tempo e diminuirá as chances de cair e quebrar um osso. Não importa a sua idade, um bom equilíbrio significa melhor tônus ​​muscular, um coração mais saudável e maior confiança. Ioga e tai chi são ótimas maneiras de trabalhar, mas praticamente qualquer coisa que o mantenha em movimento, até mesmo caminhar, pode ajudar."
+	},
+	{
+		"id": 11,
+		"title": "Estar atento",
+		"description": "Pode significar meditar ou simplesmente parar para cheirar as rosas. Seja como for, estudos mostram que a atenção plena reduz o estresse, alivia a dor e melhora o humor. E os cientistas estão começando a entender como. Um estudo descobriu que 8 semanas de meditação regular podem mudar partes do cérebro relacionadas a emoções, aprendizado e memória. Até mesmo lavar a louça pode ser bom para o cérebro, desde que você o faça com atenção."
+	},
+	{
+		"id": 12,
+		"title": "Faça uma pausa para exercícios",
+		"description": "Não pegue apenas outra xícara de café - levante-se e mexa-se. Faça algumas estocadas ou alongamentos profundos. É ótimo para o seu corpo e mente. Apenas 30 minutos de caminhada cinco vezes por semana podem ajudar a manter a tristeza sob controle. E se você não puder fazer esses minutos todos de uma vez, rajadas curtas também ajudam."
+	}
+]
